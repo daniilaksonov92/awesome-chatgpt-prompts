@@ -1,24 +1,3 @@
-<p align="center">
-<img width="395" alt="prompts.chat" src="https://github.com/user-attachments/assets/e0d0e32d-d2ce-4459-9f37-e951d9f4f5de" />
-</p>
-
-<h3 align="center">Sponsors</h3>
-
-<p align="center">
-  <a href="https://clemta.com" align="center" target="_blank">
-    <img height="50" alt="Clemta logo" src="https://clemta.com/wp-content/uploads/2023/03/logo-clemta-com-1.png.webp">
-  </a>
-  <br><br>
-  <a href="https://hf.co/chat" align="center" target="_blank">
-    <img height="60" alt="Hugging Face logo" src="https://github.com/user-attachments/assets/4187ef06-7cae-402a-a410-e0a999758fed">
-  </a>
-  <br>
-  <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&amp;tier_id=319423">Be my sponsor and your logo will be here!</a></sub>
-</p>
-
----
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
 
 [ChatGPT](https://chat.openai.com/chat) is a web interface created by [OpenAI](https://openai.com) that provides access to their GPT (Generative Pre-trained Transformer) language models. The underlying models, like GPT-4o and GPT-o1, are large language models trained on vast amounts of text data that can understand and generate human-like text. Like other AI chat interfaces, you can provide prompts and have natural conversations with the AI, which will generate contextual responses based on the conversation history and your inputs.
@@ -29,9 +8,6 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun exploring AI chat models!
 
-**[View on prompts.chat](https://prompts.chat)**
-
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 ---
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected
